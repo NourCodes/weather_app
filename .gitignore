@@ -10,7 +10,9 @@
 .svn/
 migrate_working_dir/
 *.env
-
+# Developer PIN protection files
+/lib/developer_pin.dart
+/lib/pages/DeveloperPinLockPage.dart
 # IntelliJ related
 *.iml
 *.ipr

@@ -1,16 +1,9 @@
-# weather_app
+# 🌦️ Weather App
 
-A new Flutter project.
+A beautiful Flutter weather app that displays real-time weather updates with a clean UI and responsive layout.
 
-## Getting Started
+> 🎬 **Live Demo**
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<video src="https://github.com/NourCodes/weather_app/releases/download/v1/demo.webm?raw=true" controls autoplay loop muted width="100%">
+  Your browser does not support the video tag.
+</video>

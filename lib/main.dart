@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_dotenv/flutter_dotenv.dart';
+import 'package:weather_app/pages/DeveloperPinLockPage.dart';
 import 'package:weather_app/pages/weather_page.dart';
 import 'package:provider/provider.dart';
 import 'package:weather_app/weather_provider/provider.dart';
@@ -23,7 +24,10 @@ class MyApp extends StatelessWidget {
       child: MaterialApp(
         theme: ThemeData(fontFamily: "YoungSerif"),
         debugShowCheckedModeBanner: false,
-        home: WeatherPage(),
+        home: const DeveloperPinLock(),
+        routes: {
+          '/home': (context) => WeatherPage(),
+        },
       ),
     );
   }
