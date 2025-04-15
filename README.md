@@ -4,4 +4,4 @@ A beautiful Flutter weather app that displays real-time weather updates with a c
 
 > 🎬 **Live Demo**
 
-[▶️ Click here to watch the demo video](https://github.com/NourCodes/weather_app/releases/download/v1/demo.webm?raw=true)
+![App Demo](assets/demo.gif)
